@@ -1,0 +1,7 @@
+requests
+BeautifulSoup
+python-dotenv
+openai
+streamlit
+pandas
+pypdf
